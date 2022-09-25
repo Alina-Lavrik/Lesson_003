@@ -1,0 +1,15 @@
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\obj\Debug\net6.0\METHOD_04.csproj.AssemblyReference.cache
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\obj\Debug\net6.0\METHOD_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\obj\Debug\net6.0\METHOD_04.AssemblyInfoInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\obj\Debug\net6.0\METHOD_04.AssemblyInfo.cs
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\obj\Debug\net6.0\METHOD_04.csproj.CoreCompileInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\bin\Debug\net6.0\METHOD_04.exe
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\bin\Debug\net6.0\METHOD_04.deps.json
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\bin\Debug\net6.0\METHOD_04.runtimeconfig.json
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\bin\Debug\net6.0\METHOD_04.dll
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\bin\Debug\net6.0\METHOD_04.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\obj\Debug\net6.0\METHOD_04.dll
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\obj\Debug\net6.0\refint\METHOD_04.dll
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\obj\Debug\net6.0\METHOD_04.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\obj\Debug\net6.0\METHOD_04.genruntimeconfig.cache
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\METHOD_04\obj\Debug\net6.0\ref\METHOD_04.dll
