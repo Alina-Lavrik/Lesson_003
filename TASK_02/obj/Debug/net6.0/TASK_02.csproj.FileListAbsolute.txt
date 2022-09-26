@@ -1,0 +1,15 @@
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\obj\Debug\net6.0\TASK_02.csproj.AssemblyReference.cache
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\obj\Debug\net6.0\TASK_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\obj\Debug\net6.0\TASK_02.AssemblyInfoInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\obj\Debug\net6.0\TASK_02.AssemblyInfo.cs
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\obj\Debug\net6.0\TASK_02.csproj.CoreCompileInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\bin\Debug\net6.0\TASK_02.exe
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\bin\Debug\net6.0\TASK_02.deps.json
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\bin\Debug\net6.0\TASK_02.runtimeconfig.json
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\bin\Debug\net6.0\TASK_02.dll
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\bin\Debug\net6.0\TASK_02.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\obj\Debug\net6.0\TASK_02.dll
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\obj\Debug\net6.0\refint\TASK_02.dll
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\obj\Debug\net6.0\TASK_02.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\obj\Debug\net6.0\TASK_02.genruntimeconfig.cache
+C:\Програмирование\GeekBrains\Уроки C#\Examples_03\TASK_02\obj\Debug\net6.0\ref\TASK_02.dll
